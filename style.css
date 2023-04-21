@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    justify-content: center;
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(235deg, rgba(2,0,36,1) 0%, rgba(223,75,255,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+
+
+#start {
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    background-color: white;
+    color: black;
+    width: 200px;
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+
+#start:hover {
+    background-color: green;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  td , tr{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
